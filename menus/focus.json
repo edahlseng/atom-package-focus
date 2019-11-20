@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Focus",
+          "submenu": [
+            {
+              "label": "Set Focus",
+              "command": "focus:set-focus"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
